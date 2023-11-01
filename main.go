@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"kagan/handlers"
+	"github.com/AKaganKaya/image-playground/handlers"
 
 	"github.com/gorilla/mux"
 )

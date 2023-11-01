@@ -1,4 +1,4 @@
-module kagan
+module github.com/AKaganKaya/image-playground
 
 go 1.20
 
